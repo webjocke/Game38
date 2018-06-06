@@ -1,5 +1,7 @@
 
-
+![In game screenshot](https://raw.githubusercontent.com/webjocke/Game38/master/portfolio-till%C3%A4gg/game38_big_image.png)
+![Character choice menu screenshot](https://raw.githubusercontent.com/webjocke/Game38/master/portfolio-till%C3%A4gg/game38_characterwindow.png)
+![Main Menu screenshot](https://raw.githubusercontent.com/webjocke/Game38/master/design/main_menu.png)
 
 # Game38
 A 2D fighting game programmed in c++ and SFML.
