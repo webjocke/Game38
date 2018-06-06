@@ -13,10 +13,10 @@ This project was a assignment for the TDP005 course. [Official Course Website](h
 Sorry, you are on your own here. All the gamefiles are in the 'game' folder and you need to compile all the cpp files to get an executable. Also you need to have gcc and sfml installed.
 
 ## Developer team:
-Alexander Jonsson
-Joakim Johansson
+* Alexander Jonsson
+* Joakim Johansson
 
 ## Feedback team:
-Sokrates Lamprou
-Benjamin Fischer
+* Sokrates Lamprou
+* Benjamin Fischer
 
